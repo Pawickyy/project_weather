@@ -1,4 +1,4 @@
-# AGENTS.md
+# AGENTS.mdxxx
 
 This is a Symfony project. Check `composer.json` for the exact Symfony/PHP version
 in use, and read `symfony.lock` to see which recipes ran. Don't assume Doctrine,
